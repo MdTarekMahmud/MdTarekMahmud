@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Html & CSS**
 
-- 🌱 I’m currently learning **React,Javascipt,C++,Python,Php**
+- 🌱 I’m currently learning **React,Javascipt,C++,Python**
 
 - 👯 I’m looking to collaborate on **Github**
 
